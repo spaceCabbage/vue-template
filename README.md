@@ -2,13 +2,15 @@
 
 this is my personal template for starting a new vue project
 
-it follows my prefered directory structure and use Tailwind
+it follows my prefered directory structure and uses Tailwind
 
 ## Installation
 
 ```sh
-git clone {repo url } {project name}
-cd {project name}
+# fork the repo, navigate into it, install and run!
+cd { your project name }
 npm install
 npm run dev
 ```
+
+> Made with 🖤 by spaceCabbage
